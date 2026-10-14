@@ -1,4 +1,4 @@
-#Escreve um programa que solicita um número ao usuário e determina se ele é par ou ímpar.
+# Escreve um programa que solicita um número ao usuário e determina se ele é par ou ímpar.
 
 numero = int(input("Digite um número inteiro: "))
 
